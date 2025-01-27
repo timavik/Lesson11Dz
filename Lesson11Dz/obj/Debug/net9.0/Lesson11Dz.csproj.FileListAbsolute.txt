@@ -1,0 +1,14 @@
+D:\csharp\Lesson11Dz\Lesson11Dz\bin\Debug\net9.0\Lesson11Dz.exe
+D:\csharp\Lesson11Dz\Lesson11Dz\bin\Debug\net9.0\Lesson11Dz.deps.json
+D:\csharp\Lesson11Dz\Lesson11Dz\bin\Debug\net9.0\Lesson11Dz.runtimeconfig.json
+D:\csharp\Lesson11Dz\Lesson11Dz\bin\Debug\net9.0\Lesson11Dz.dll
+D:\csharp\Lesson11Dz\Lesson11Dz\bin\Debug\net9.0\Lesson11Dz.pdb
+D:\csharp\Lesson11Dz\Lesson11Dz\obj\Debug\net9.0\Lesson11Dz.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp\Lesson11Dz\Lesson11Dz\obj\Debug\net9.0\Lesson11Dz.AssemblyInfoInputs.cache
+D:\csharp\Lesson11Dz\Lesson11Dz\obj\Debug\net9.0\Lesson11Dz.AssemblyInfo.cs
+D:\csharp\Lesson11Dz\Lesson11Dz\obj\Debug\net9.0\Lesson11Dz.csproj.CoreCompileInputs.cache
+D:\csharp\Lesson11Dz\Lesson11Dz\obj\Debug\net9.0\Lesson11Dz.dll
+D:\csharp\Lesson11Dz\Lesson11Dz\obj\Debug\net9.0\refint\Lesson11Dz.dll
+D:\csharp\Lesson11Dz\Lesson11Dz\obj\Debug\net9.0\Lesson11Dz.pdb
+D:\csharp\Lesson11Dz\Lesson11Dz\obj\Debug\net9.0\Lesson11Dz.genruntimeconfig.cache
+D:\csharp\Lesson11Dz\Lesson11Dz\obj\Debug\net9.0\ref\Lesson11Dz.dll
